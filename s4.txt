@@ -1,3 +1,4 @@
 Welcome to IntelliQ
 
 Where we can get better training on AWS and Devops
+tomorrow session will be on Dockers
